@@ -13,7 +13,7 @@ This is an example pet name generator app used in the OpenAI API [quickstart tut
    ```
    or
    ```bash
-   $ npm install
+   $ yarn install
    ```
 
 2. Run the app
